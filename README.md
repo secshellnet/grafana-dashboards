@@ -8,3 +8,4 @@ This repository contains grafana dashboards used by Secure Shell Networks.
   ![Preview of the Wireguard dashboard](./.wireguard.png)
 - [Border Gateway Protocol](./bgp.json)
   ![Preview of the BGP dashboard](./.bgp.png)
+- [Proxmox](https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/)
